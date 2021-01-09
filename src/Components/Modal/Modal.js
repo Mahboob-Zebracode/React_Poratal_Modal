@@ -1,8 +1,11 @@
 import React from "react";
+import ReactDom from "react-dom";
 import "./Modal.css";
 
+const modalRoot = document.getElementById("modal-root");
+
 const Modal = ({ show, close }) => {
-  return (
+  return ReactDom.createPortal(
     <div
       className="modal-wrapper"
       style={{
@@ -31,7 +34,8 @@ const Modal = ({ show, close }) => {
           </button>
         </div>
       </div>
-    </div>
+    </div>,
+    modalRoot
   );
 };
 
