@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Poratal_Modal/static/css/main.d4d529c9.chunk.css",
+    "main.js": "/React_Poratal_Modal/static/js/main.c228d687.chunk.js",
+    "main.js.map": "/React_Poratal_Modal/static/js/main.c228d687.chunk.js.map",
+    "runtime-main.js": "/React_Poratal_Modal/static/js/runtime-main.26ea09c5.js",
+    "runtime-main.js.map": "/React_Poratal_Modal/static/js/runtime-main.26ea09c5.js.map",
+    "static/js/2.2836d63c.chunk.js": "/React_Poratal_Modal/static/js/2.2836d63c.chunk.js",
+    "static/js/2.2836d63c.chunk.js.map": "/React_Poratal_Modal/static/js/2.2836d63c.chunk.js.map",
+    "static/js/3.16de0ba9.chunk.js": "/React_Poratal_Modal/static/js/3.16de0ba9.chunk.js",
+    "static/js/3.16de0ba9.chunk.js.map": "/React_Poratal_Modal/static/js/3.16de0ba9.chunk.js.map",
+    "index.html": "/React_Poratal_Modal/index.html",
+    "static/css/main.d4d529c9.chunk.css.map": "/React_Poratal_Modal/static/css/main.d4d529c9.chunk.css.map",
+    "static/js/2.2836d63c.chunk.js.LICENSE.txt": "/React_Poratal_Modal/static/js/2.2836d63c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26ea09c5.js",
+    "static/js/2.2836d63c.chunk.js",
+    "static/css/main.d4d529c9.chunk.css",
+    "static/js/main.c228d687.chunk.js"
+  ]
+}
